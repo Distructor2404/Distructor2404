@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">A passionate Data-Science and an AI-Enthusiast</h3>
 
-<img align = "right" alt="coder" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lambdatest.com%2Fnewsletter%2Feditions%2Fissue24&psig=AOvVaw3tys44Entn3iUF5Jtdf7gv&ust=1706526665341000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPifibD5_4MDFQAAAAAdAAAAABA0](https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif)">
+<img align = "right" alt="coder" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lambdatest.com%2Fnewsletter%2Feditions%2Fissue24&psig=AOvVaw3tys44Entn3iUF5Jtdf7gv&ust=1706526665341000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPifibD5_4MDFQAAAAAdAAAAABA0](https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=distructor2404&label=Profile%20views&color=0e75b6&style=flat" alt="distructor2404" /> </p>
 
