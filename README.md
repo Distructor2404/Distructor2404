@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">A passionate Data-Science and an AI-Enthusiast</h3>
 
-<img align = "right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
+<img align = "right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1136/format:webp/1*2pORtePzzyTbNXMUQelSCQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=distructor2404&label=Profile%20views&color=0e75b6&style=flat" alt="distructor2404" /> </p>
 
