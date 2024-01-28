@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Machine-Learning & Deep-Learning**
 
-- 👯 I’m looking to collaborate on **Machine-Learning**
-
 - 👨‍💻 All of my projects are available at [https://my-page-ey7a.vercel.app/](https://my-page-ey7a.vercel.app/)
 
 - 💬 Ask me about **React, Python, LLM, GenAI and SQL**
