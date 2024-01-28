@@ -1,3 +1,21 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Abhishek Kumar Singh</title>
+  <style>
+    body {
+      background-color: #1a1a1a; /* Set your preferred background color */
+      color: white; /* Set the text color */
+    }
+  </style>
+</head>
+
+<body>
 ![logo](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">A passionate Data-Science and an AI-Enthusiast</h3>
@@ -30,3 +48,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=distructor2404&show_icons=true&theme=dark&hide_border=true&locale=en" alt="distructor2404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=distructor2404&theme=dark" alt="distructor2404" /></p>
+
+
+</body>
+
+</html>
